@@ -1,6 +1,6 @@
 <?php
   session_start();
-  require 'dbh.inc.php';
+  require './includes/dbh.inc.php';
  ?>
 
 
